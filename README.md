@@ -1,7 +1,9 @@
-# Team-5---Image-Transformation
-
+Image Transformation Matlab
+----------------------------
+By: Team 5
+----------------------------
 Team Members:
-Aidan Quinn 
+Aidan Quinn
 Giancarlo Ramirez
 Sain Madrigal
 Thi Van Anh Nguyen
